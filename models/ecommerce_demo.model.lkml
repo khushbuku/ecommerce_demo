@@ -24,6 +24,8 @@ explore: billion_orders {
   }
 }
 
+explore: derived_table_test {}
+
 explore: bud {}
 
 explore: budget {}
